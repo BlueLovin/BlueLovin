@@ -4,4 +4,3 @@
 - 🌱 I’m currently learning and growing at XI Media
 - 👯 I’m looking to collaborate
 - 💬 Ask me about MVC and Backend Engineering
-
