@@ -2,5 +2,5 @@
 
 - 🔭 I’m currently working with Java, React, and Django
 - 🌱 I’m currently learning and growing at ECi Software Solutions
-- 💬 Ask me about Python, OOP, Dynamo/Revit, Java, C# or React
+- 💬 Ask me about Python, Java, C# or React
 - 🥊 Working on a boxing social media website
