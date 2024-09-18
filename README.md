@@ -2,4 +2,4 @@
 - 🌱 I’m currently on my path to Senior Dev at ECi Software Solutions
 - 💬 Ask me about React, Authentication, or Software Architecting
 - 🥊 Created a boxing social media website with Next JS and Django: https://boxingdial.com
-- ✒ Working on a CRM for Tattoo Artists in Golang and HTMX
+- ✒ Working on a CRM for Tattoo Artists in Golang and HTMX: https://moxie.ink
